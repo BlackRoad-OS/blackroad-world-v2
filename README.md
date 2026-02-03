@@ -1,3 +1,9 @@
+# blackroad-world-v2
+
+[![GitHub](https://img.shields.io/badge/GitHub-BlackRoad-OS-purple?style=for-the-badge&logo=github)](https://github.com/BlackRoad-OS/blackroad-world-v2)
+[![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)](https://github.com/BlackRoad-OS/blackroad-world-v2)
+[![BlackRoad](https://img.shields.io/badge/BlackRoad-OS-black?style=for-the-badge)](https://blackroad.io)
+
 # 🌍 blackroad-world-v2
 
 **BlackRoad OS, Inc.**
